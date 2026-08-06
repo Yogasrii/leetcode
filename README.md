@@ -47,6 +47,7 @@
 | [0047-permutations-ii](https://github.com/Yogasrii/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Yogasrii/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Yogasrii/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/Yogasrii/leetcode/tree/main/0051-n-queens/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +56,7 @@
 | [0039-combination-sum](https://github.com/Yogasrii/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Yogasrii/leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0047-permutations-ii](https://github.com/Yogasrii/leetcode/tree/main/0047-permutations-ii/) | Medium |
+| [0051-n-queens](https://github.com/Yogasrii/leetcode/tree/main/0051-n-queens/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -213,4 +215,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Yogasrii/leetcode/tree/main/0043-multiply-strings/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/Yogasrii/leetcode/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
