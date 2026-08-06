@@ -13,6 +13,7 @@
 | [0013-roman-to-integer](https://github.com/Yogasrii/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Yogasrii/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Yogasrii/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/Yogasrii/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0038-count-and-say](https://github.com/Yogasrii/leetcode/tree/main/0038-count-and-say/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -62,6 +63,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Yogasrii/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Yogasrii/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -115,4 +117,8 @@
 | [0015-3sum](https://github.com/Yogasrii/leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Yogasrii/leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Yogasrii/leetcode/tree/main/0018-4sum/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Yogasrii/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
