@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yogasrii/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/Yogasrii/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0038-count-and-say](https://github.com/Yogasrii/leetcode/tree/main/0038-count-and-say/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -29,10 +30,12 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yogasrii/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Yogasrii/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yogasrii/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Yogasrii/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -66,4 +69,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yogasrii/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yogasrii/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
