@@ -19,6 +19,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Yogasrii/leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/Yogasrii/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/Yogasrii/leetcode/tree/main/0038-count-and-say/) | Medium |
+| [0043-multiply-strings](https://github.com/Yogasrii/leetcode/tree/main/0043-multiply-strings/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +108,7 @@
 | [0009-palindrome-number](https://github.com/Yogasrii/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/Yogasrii/leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Yogasrii/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0043-multiply-strings](https://github.com/Yogasrii/leetcode/tree/main/0043-multiply-strings/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,4 +190,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Yogasrii/leetcode/tree/main/0036-valid-sudoku/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0043-multiply-strings](https://github.com/Yogasrii/leetcode/tree/main/0043-multiply-strings/) | Medium |
 <!---LeetCode Topics End-->
