@@ -10,6 +10,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Yogasrii/leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Yogasrii/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0012-integer-to-roman](https://github.com/Yogasrii/leetcode/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/Yogasrii/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0038-count-and-say](https://github.com/Yogasrii/leetcode/tree/main/0038-count-and-say/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -32,6 +33,7 @@
 | [0001-two-sum](https://github.com/Yogasrii/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yogasrii/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/Yogasrii/leetcode/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/Yogasrii/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0041-first-missing-positive](https://github.com/Yogasrii/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -64,6 +66,7 @@
 | [0007-reverse-integer](https://github.com/Yogasrii/leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Yogasrii/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/Yogasrii/leetcode/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/Yogasrii/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
