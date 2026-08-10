@@ -67,6 +67,7 @@
 | [0078-subsets](https://github.com/Yogasrii/leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Yogasrii/leetcode/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Yogasrii/leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Yogasrii/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,6 +185,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yogasrii/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Yogasrii/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Yogasrii/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Yogasrii/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
