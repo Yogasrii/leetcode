@@ -59,6 +59,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Yogasrii/leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Yogasrii/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0068-text-justification](https://github.com/Yogasrii/leetcode/tree/main/0068-text-justification/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/Yogasrii/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@
 | [0036-valid-sudoku](https://github.com/Yogasrii/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/Yogasrii/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/Yogasrii/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Yogasrii/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -238,6 +240,7 @@
 | [0054-spiral-matrix](https://github.com/Yogasrii/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Yogasrii/leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Yogasrii/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Yogasrii/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
