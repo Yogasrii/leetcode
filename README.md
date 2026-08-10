@@ -30,6 +30,7 @@
 | [0079-word-search](https://github.com/Yogasrii/leetcode/tree/main/0079-word-search/) | Medium |
 | [0087-scramble-string](https://github.com/Yogasrii/leetcode/tree/main/0087-scramble-string/) | Hard |
 | [0091-decode-ways](https://github.com/Yogasrii/leetcode/tree/main/0091-decode-ways/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/Yogasrii/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +88,7 @@
 | [0079-word-search](https://github.com/Yogasrii/leetcode/tree/main/0079-word-search/) | Medium |
 | [0089-gray-code](https://github.com/Yogasrii/leetcode/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/Yogasrii/leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/Yogasrii/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
