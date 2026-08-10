@@ -29,6 +29,7 @@
 | [0076-minimum-window-substring](https://github.com/Yogasrii/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/Yogasrii/leetcode/tree/main/0079-word-search/) | Medium |
 | [0087-scramble-string](https://github.com/Yogasrii/leetcode/tree/main/0087-scramble-string/) | Hard |
+| [0091-decode-ways](https://github.com/Yogasrii/leetcode/tree/main/0091-decode-ways/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +137,7 @@
 | [0072-edit-distance](https://github.com/Yogasrii/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Yogasrii/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0087-scramble-string](https://github.com/Yogasrii/leetcode/tree/main/0087-scramble-string/) | Hard |
+| [0091-decode-ways](https://github.com/Yogasrii/leetcode/tree/main/0091-decode-ways/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
