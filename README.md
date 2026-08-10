@@ -72,6 +72,7 @@
 | [0040-combination-sum-ii](https://github.com/Yogasrii/leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0047-permutations-ii](https://github.com/Yogasrii/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/Yogasrii/leetcode/tree/main/0051-n-queens/) | Hard |
+| [0077-combinations](https://github.com/Yogasrii/leetcode/tree/main/0077-combinations/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
