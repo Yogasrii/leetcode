@@ -89,6 +89,7 @@
 | [0089-gray-code](https://github.com/Yogasrii/leetcode/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/Yogasrii/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/Yogasrii/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
+| [0095-unique-binary-search-trees-ii](https://github.com/Yogasrii/leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +141,7 @@
 | [0085-maximal-rectangle](https://github.com/Yogasrii/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0087-scramble-string](https://github.com/Yogasrii/leetcode/tree/main/0087-scramble-string/) | Hard |
 | [0091-decode-ways](https://github.com/Yogasrii/leetcode/tree/main/0091-decode-ways/) | Medium |
+| [0095-unique-binary-search-trees-ii](https://github.com/Yogasrii/leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -321,4 +323,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yogasrii/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Yogasrii/leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Yogasrii/leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Yogasrii/leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 <!---LeetCode Topics End-->
