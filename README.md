@@ -114,6 +114,7 @@
 | [0075-sort-colors](https://github.com/Yogasrii/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Yogasrii/leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Yogasrii/leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0086-partition-list](https://github.com/Yogasrii/leetcode/tree/main/0086-partition-list/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +157,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Yogasrii/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/Yogasrii/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Yogasrii/leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0086-partition-list](https://github.com/Yogasrii/leetcode/tree/main/0086-partition-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
