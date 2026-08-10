@@ -61,6 +61,7 @@
 | [0068-text-justification](https://github.com/Yogasrii/leetcode/tree/main/0068-text-justification/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/Yogasrii/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Yogasrii/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0075-sort-colors](https://github.com/Yogasrii/leetcode/tree/main/0075-sort-colors/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +99,7 @@
 | [0031-next-permutation](https://github.com/Yogasrii/leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Yogasrii/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/Yogasrii/leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/Yogasrii/leetcode/tree/main/0075-sort-colors/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,6 +202,7 @@
 | [0018-4sum](https://github.com/Yogasrii/leetcode/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Yogasrii/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Yogasrii/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0075-sort-colors](https://github.com/Yogasrii/leetcode/tree/main/0075-sort-colors/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,4 +262,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Yogasrii/leetcode/tree/main/0062-unique-paths/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Yogasrii/leetcode/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Yogasrii/leetcode/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
