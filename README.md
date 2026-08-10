@@ -22,6 +22,7 @@
 | [0043-multiply-strings](https://github.com/Yogasrii/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0044-wildcard-matching](https://github.com/Yogasrii/leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/Yogasrii/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0065-valid-number](https://github.com/Yogasrii/leetcode/tree/main/0065-valid-number/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
