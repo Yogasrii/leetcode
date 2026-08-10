@@ -66,6 +66,7 @@
 | [0075-sort-colors](https://github.com/Yogasrii/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Yogasrii/leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Yogasrii/leetcode/tree/main/0079-word-search/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Yogasrii/leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@
 | [0042-trapping-rain-water](https://github.com/Yogasrii/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/Yogasrii/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/Yogasrii/leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Yogasrii/leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
