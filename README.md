@@ -142,6 +142,7 @@
 | [0087-scramble-string](https://github.com/Yogasrii/leetcode/tree/main/0087-scramble-string/) | Hard |
 | [0091-decode-ways](https://github.com/Yogasrii/leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/Yogasrii/leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Yogasrii/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,6 +185,7 @@
 | [0060-permutation-sequence](https://github.com/Yogasrii/leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/Yogasrii/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0089-gray-code](https://github.com/Yogasrii/leetcode/tree/main/0089-gray-code/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Yogasrii/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -327,12 +329,15 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Yogasrii/leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Yogasrii/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Yogasrii/leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Yogasrii/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Yogasrii/leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Yogasrii/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 <!---LeetCode Topics End-->
