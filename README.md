@@ -71,6 +71,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Yogasrii/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yogasrii/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Yogasrii/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0090-subsets-ii](https://github.com/Yogasrii/leetcode/tree/main/0090-subsets-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +85,7 @@
 | [0078-subsets](https://github.com/Yogasrii/leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Yogasrii/leetcode/tree/main/0079-word-search/) | Medium |
 | [0089-gray-code](https://github.com/Yogasrii/leetcode/tree/main/0089-gray-code/) | Medium |
+| [0090-subsets-ii](https://github.com/Yogasrii/leetcode/tree/main/0090-subsets-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -305,6 +307,7 @@
 | ------- | ------- |
 | [0078-subsets](https://github.com/Yogasrii/leetcode/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/Yogasrii/leetcode/tree/main/0089-gray-code/) | Medium |
+| [0090-subsets-ii](https://github.com/Yogasrii/leetcode/tree/main/0090-subsets-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
