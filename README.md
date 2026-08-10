@@ -83,6 +83,7 @@
 | [0077-combinations](https://github.com/Yogasrii/leetcode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/Yogasrii/leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Yogasrii/leetcode/tree/main/0079-word-search/) | Medium |
+| [0089-gray-code](https://github.com/Yogasrii/leetcode/tree/main/0089-gray-code/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +174,7 @@
 | [0050-powx-n](https://github.com/Yogasrii/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/Yogasrii/leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/Yogasrii/leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0089-gray-code](https://github.com/Yogasrii/leetcode/tree/main/0089-gray-code/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -302,6 +304,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Yogasrii/leetcode/tree/main/0078-subsets/) | Medium |
+| [0089-gray-code](https://github.com/Yogasrii/leetcode/tree/main/0089-gray-code/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
