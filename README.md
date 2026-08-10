@@ -101,6 +101,7 @@
 | [0045-jump-game-ii](https://github.com/Yogasrii/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Yogasrii/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Yogasrii/leetcode/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/Yogasrii/leetcode/tree/main/0062-unique-paths/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +134,7 @@
 | [0048-rotate-image](https://github.com/Yogasrii/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Yogasrii/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/Yogasrii/leetcode/tree/main/0060-permutation-sequence/) | Hard |
+| [0062-unique-paths](https://github.com/Yogasrii/leetcode/tree/main/0062-unique-paths/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -236,4 +238,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/Yogasrii/leetcode/tree/main/0051-n-queens/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Yogasrii/leetcode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
