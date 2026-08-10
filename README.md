@@ -23,6 +23,7 @@
 | [0044-wildcard-matching](https://github.com/Yogasrii/leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/Yogasrii/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0065-valid-number](https://github.com/Yogasrii/leetcode/tree/main/0065-valid-number/) | Hard |
+| [0068-text-justification](https://github.com/Yogasrii/leetcode/tree/main/0068-text-justification/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +56,7 @@
 | [0057-insert-interval](https://github.com/Yogasrii/leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Yogasrii/leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Yogasrii/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0068-text-justification](https://github.com/Yogasrii/leetcode/tree/main/0068-text-justification/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -238,6 +240,7 @@
 | [0043-multiply-strings](https://github.com/Yogasrii/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/Yogasrii/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Yogasrii/leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0068-text-justification](https://github.com/Yogasrii/leetcode/tree/main/0068-text-justification/) | Hard |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
