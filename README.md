@@ -24,6 +24,7 @@
 | [0049-group-anagrams](https://github.com/Yogasrii/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0065-valid-number](https://github.com/Yogasrii/leetcode/tree/main/0065-valid-number/) | Hard |
 | [0068-text-justification](https://github.com/Yogasrii/leetcode/tree/main/0068-text-justification/) | Hard |
+| [0071-simplify-path](https://github.com/Yogasrii/leetcode/tree/main/0071-simplify-path/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +114,7 @@
 | [0020-valid-parentheses](https://github.com/Yogasrii/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Yogasrii/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Yogasrii/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0071-simplify-path](https://github.com/Yogasrii/leetcode/tree/main/0071-simplify-path/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
