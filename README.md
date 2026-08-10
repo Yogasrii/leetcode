@@ -63,6 +63,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Yogasrii/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Yogasrii/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Yogasrii/leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/Yogasrii/leetcode/tree/main/0078-subsets/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +74,7 @@
 | [0047-permutations-ii](https://github.com/Yogasrii/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/Yogasrii/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/Yogasrii/leetcode/tree/main/0077-combinations/) | Medium |
+| [0078-subsets](https://github.com/Yogasrii/leetcode/tree/main/0078-subsets/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -274,4 +276,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Yogasrii/leetcode/tree/main/0075-sort-colors/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Yogasrii/leetcode/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
