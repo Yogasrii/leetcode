@@ -25,6 +25,7 @@
 | [0065-valid-number](https://github.com/Yogasrii/leetcode/tree/main/0065-valid-number/) | Hard |
 | [0068-text-justification](https://github.com/Yogasrii/leetcode/tree/main/0068-text-justification/) | Hard |
 | [0071-simplify-path](https://github.com/Yogasrii/leetcode/tree/main/0071-simplify-path/) | Medium |
+| [0072-edit-distance](https://github.com/Yogasrii/leetcode/tree/main/0072-edit-distance/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@
 | [0055-jump-game](https://github.com/Yogasrii/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Yogasrii/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Yogasrii/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0072-edit-distance](https://github.com/Yogasrii/leetcode/tree/main/0072-edit-distance/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
