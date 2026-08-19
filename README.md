@@ -329,6 +329,7 @@
 | [0079-word-search](https://github.com/Yogasrii/leetcode/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Yogasrii/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Yogasrii/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/Yogasrii/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -345,6 +346,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Yogasrii/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yogasrii/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Yogasrii/leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0110-balanced-binary-tree](https://github.com/Yogasrii/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -365,6 +367,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Yogasrii/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yogasrii/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Yogasrii/leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0110-balanced-binary-tree](https://github.com/Yogasrii/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
