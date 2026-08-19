@@ -179,6 +179,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/Yogasrii/leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Yogasrii/leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yogasrii/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Yogasrii/leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -336,6 +337,7 @@
 | [0110-balanced-binary-tree](https://github.com/Yogasrii/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Yogasrii/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yogasrii/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Yogasrii/leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -355,6 +357,7 @@
 | [0110-balanced-binary-tree](https://github.com/Yogasrii/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Yogasrii/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yogasrii/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Yogasrii/leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -378,6 +381,7 @@
 | [0110-balanced-binary-tree](https://github.com/Yogasrii/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Yogasrii/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yogasrii/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Yogasrii/leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -386,4 +390,5 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Yogasrii/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Yogasrii/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Yogasrii/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Yogasrii/leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 <!---LeetCode Topics End-->
