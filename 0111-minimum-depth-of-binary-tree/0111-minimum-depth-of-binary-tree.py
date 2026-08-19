@@ -9,11 +9,10 @@ class Solution:
         queue = deque([(root, 1)])
 
         while queue:
-
             node, depth = queue.popleft()
 
             # Leaf node
-            if not node.left and not node.right:
+            if node.left is None and node.right is None:
                 return depth
 
             if node.left:
