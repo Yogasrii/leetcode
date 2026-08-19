@@ -77,6 +77,7 @@
 | [0085-maximal-rectangle](https://github.com/Yogasrii/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0090-subsets-ii](https://github.com/Yogasrii/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yogasrii/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0118-pascals-triangle](https://github.com/Yogasrii/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +149,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Yogasrii/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0097-interleaving-string](https://github.com/Yogasrii/leetcode/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Yogasrii/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
+| [0118-pascals-triangle](https://github.com/Yogasrii/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
