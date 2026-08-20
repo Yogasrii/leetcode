@@ -86,6 +86,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yogasrii/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yogasrii/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Yogasrii/leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/Yogasrii/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +120,7 @@
 | [0076-minimum-window-substring](https://github.com/Yogasrii/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0126-word-ladder-ii](https://github.com/Yogasrii/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Yogasrii/leetcode/tree/main/0127-word-ladder/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/Yogasrii/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -431,4 +433,8 @@
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/Yogasrii/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Yogasrii/leetcode/tree/main/0127-word-ladder/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Yogasrii/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
