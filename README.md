@@ -35,6 +35,7 @@
 | [0115-distinct-subsequences](https://github.com/Yogasrii/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/Yogasrii/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0126-word-ladder-ii](https://github.com/Yogasrii/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
+| [0127-word-ladder](https://github.com/Yogasrii/leetcode/tree/main/0127-word-ladder/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +118,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Yogasrii/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Yogasrii/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0126-word-ladder-ii](https://github.com/Yogasrii/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
+| [0127-word-ladder](https://github.com/Yogasrii/leetcode/tree/main/0127-word-ladder/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -419,6 +421,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Yogasrii/leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Yogasrii/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0126-word-ladder-ii](https://github.com/Yogasrii/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
+| [0127-word-ladder](https://github.com/Yogasrii/leetcode/tree/main/0127-word-ladder/) | Hard |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -427,4 +430,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/Yogasrii/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
+| [0127-word-ladder](https://github.com/Yogasrii/leetcode/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
