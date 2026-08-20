@@ -34,6 +34,7 @@
 | [0097-interleaving-string](https://github.com/Yogasrii/leetcode/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Yogasrii/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/Yogasrii/leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0126-word-ladder-ii](https://github.com/Yogasrii/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +101,7 @@
 | [0090-subsets-ii](https://github.com/Yogasrii/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/Yogasrii/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/Yogasrii/leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0126-word-ladder-ii](https://github.com/Yogasrii/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +116,7 @@
 | [0049-group-anagrams](https://github.com/Yogasrii/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Yogasrii/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Yogasrii/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0126-word-ladder-ii](https://github.com/Yogasrii/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -415,8 +418,13 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Yogasrii/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Yogasrii/leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Yogasrii/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0126-word-ladder-ii](https://github.com/Yogasrii/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yogasrii/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0126-word-ladder-ii](https://github.com/Yogasrii/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 <!---LeetCode Topics End-->
