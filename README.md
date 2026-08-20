@@ -33,6 +33,7 @@
 | [0093-restore-ip-addresses](https://github.com/Yogasrii/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0097-interleaving-string](https://github.com/Yogasrii/leetcode/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Yogasrii/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
+| [0125-valid-palindrome](https://github.com/Yogasrii/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +133,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Yogasrii/leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Yogasrii/leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/Yogasrii/leetcode/tree/main/0086-partition-list/) | Medium |
+| [0125-valid-palindrome](https://github.com/Yogasrii/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
