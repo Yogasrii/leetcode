@@ -130,6 +130,7 @@
 | [0127-word-ladder](https://github.com/Yogasrii/leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Yogasrii/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/Yogasrii/leetcode/tree/main/0133-clone-graph/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/Yogasrii/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,6 +215,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yogasrii/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Yogasrii/leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Yogasrii/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/Yogasrii/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
