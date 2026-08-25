@@ -162,6 +162,7 @@
 | [0125-valid-palindrome](https://github.com/Yogasrii/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Yogasrii/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Yogasrii/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/Yogasrii/leetcode/tree/main/0143-reorder-list/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,6 +206,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Yogasrii/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Yogasrii/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yogasrii/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0143-reorder-list](https://github.com/Yogasrii/leetcode/tree/main/0143-reorder-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,6 +233,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Yogasrii/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Yogasrii/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Yogasrii/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/Yogasrii/leetcode/tree/main/0143-reorder-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -257,6 +260,7 @@
 | [0044-wildcard-matching](https://github.com/Yogasrii/leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/Yogasrii/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/Yogasrii/leetcode/tree/main/0060-permutation-sequence/) | Hard |
+| [0143-reorder-list](https://github.com/Yogasrii/leetcode/tree/main/0143-reorder-list/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
