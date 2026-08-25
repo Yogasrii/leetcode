@@ -630,4 +630,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0192-word-frequency](https://github.com/Yogasrii/leetcode/tree/main/0192-word-frequency/) | Medium |
+| [0193-valid-phone-numbers](https://github.com/Yogasrii/leetcode/tree/main/0193-valid-phone-numbers/) | Easy |
 <!---LeetCode Topics End-->
