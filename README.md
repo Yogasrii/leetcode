@@ -38,6 +38,7 @@
 | [0127-word-ladder](https://github.com/Yogasrii/leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Yogasrii/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/Yogasrii/leetcode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+| [0139-word-break](https://github.com/Yogasrii/leetcode/tree/main/0139-word-break/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +95,7 @@
 | [0135-candy](https://github.com/Yogasrii/leetcode/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/Yogasrii/leetcode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Yogasrii/leetcode/tree/main/0137-single-number-ii/) | Medium |
+| [0139-word-break](https://github.com/Yogasrii/leetcode/tree/main/0139-word-break/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,6 +133,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Yogasrii/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/Yogasrii/leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Yogasrii/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0139-word-break](https://github.com/Yogasrii/leetcode/tree/main/0139-word-break/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,6 +185,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yogasrii/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Yogasrii/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/Yogasrii/leetcode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+| [0139-word-break](https://github.com/Yogasrii/leetcode/tree/main/0139-word-break/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -283,6 +287,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Yogasrii/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0139-word-break](https://github.com/Yogasrii/leetcode/tree/main/0139-word-break/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -464,4 +469,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/Yogasrii/leetcode/tree/main/0133-clone-graph/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Yogasrii/leetcode/tree/main/0139-word-break/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Yogasrii/leetcode/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
