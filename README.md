@@ -207,6 +207,7 @@
 | [0085-maximal-rectangle](https://github.com/Yogasrii/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yogasrii/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/Yogasrii/leetcode/tree/main/0143-reorder-list/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/Yogasrii/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -405,6 +406,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yogasrii/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0130-surrounded-regions](https://github.com/Yogasrii/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/Yogasrii/leetcode/tree/main/0133-clone-graph/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/Yogasrii/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -427,6 +429,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Yogasrii/leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Yogasrii/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yogasrii/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0144-binary-tree-preorder-traversal](https://github.com/Yogasrii/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -453,6 +456,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Yogasrii/leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Yogasrii/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yogasrii/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0144-binary-tree-preorder-traversal](https://github.com/Yogasrii/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
