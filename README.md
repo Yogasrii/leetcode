@@ -36,6 +36,7 @@
 | [0125-valid-palindrome](https://github.com/Yogasrii/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0126-word-ladder-ii](https://github.com/Yogasrii/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Yogasrii/leetcode/tree/main/0127-word-ladder/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/Yogasrii/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +106,7 @@
 | [0093-restore-ip-addresses](https://github.com/Yogasrii/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/Yogasrii/leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0126-word-ladder-ii](https://github.com/Yogasrii/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/Yogasrii/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,6 +173,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yogasrii/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Yogasrii/leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yogasrii/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/Yogasrii/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
