@@ -45,6 +45,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/Yogasrii/leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Yogasrii/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0179-largest-number](https://github.com/Yogasrii/leetcode/tree/main/0179-largest-number/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/Yogasrii/leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +160,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Yogasrii/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0166-fraction-to-recurring-decimal](https://github.com/Yogasrii/leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0169-majority-element](https://github.com/Yogasrii/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0187-repeated-dna-sequences](https://github.com/Yogasrii/leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -305,6 +307,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yogasrii/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Yogasrii/leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/Yogasrii/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0187-repeated-dna-sequences](https://github.com/Yogasrii/leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -390,6 +393,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yogasrii/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0187-repeated-dna-sequences](https://github.com/Yogasrii/leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
 ## Knuth–Morris–Pratt Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -398,6 +402,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yogasrii/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0187-repeated-dna-sequences](https://github.com/Yogasrii/leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -443,6 +448,7 @@
 | [0090-subsets-ii](https://github.com/Yogasrii/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Yogasrii/leetcode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Yogasrii/leetcode/tree/main/0137-single-number-ii/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/Yogasrii/leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -603,4 +609,12 @@
 | [0183-customers-who-never-order](https://github.com/Yogasrii/leetcode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/Yogasrii/leetcode/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/Yogasrii/leetcode/tree/main/0185-department-top-three-salaries/) | Hard |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Yogasrii/leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Yogasrii/leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
 <!---LeetCode Topics End-->
