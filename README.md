@@ -626,4 +626,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Yogasrii/leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0192-word-frequency](https://github.com/Yogasrii/leetcode/tree/main/0192-word-frequency/) | Medium |
 <!---LeetCode Topics End-->
