@@ -100,6 +100,7 @@
 | [0139-word-break](https://github.com/Yogasrii/leetcode/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/Yogasrii/leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yogasrii/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Yogasrii/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +202,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/Yogasrii/leetcode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0139-word-break](https://github.com/Yogasrii/leetcode/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/Yogasrii/leetcode/tree/main/0140-word-break-ii/) | Hard |
+| [0152-maximum-product-subarray](https://github.com/Yogasrii/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
