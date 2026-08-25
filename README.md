@@ -110,6 +110,7 @@
 | [0164-maximum-gap](https://github.com/Yogasrii/leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yogasrii/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Yogasrii/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0174-dungeon-game](https://github.com/Yogasrii/leetcode/tree/main/0174-dungeon-game/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,6 +219,7 @@
 | [0139-word-break](https://github.com/Yogasrii/leetcode/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/Yogasrii/leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Yogasrii/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0174-dungeon-game](https://github.com/Yogasrii/leetcode/tree/main/0174-dungeon-game/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -405,6 +407,7 @@
 | [0079-word-search](https://github.com/Yogasrii/leetcode/tree/main/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Yogasrii/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0130-surrounded-regions](https://github.com/Yogasrii/leetcode/tree/main/0130-surrounded-regions/) | Medium |
+| [0174-dungeon-game](https://github.com/Yogasrii/leetcode/tree/main/0174-dungeon-game/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
