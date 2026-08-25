@@ -632,4 +632,5 @@
 | [0192-word-frequency](https://github.com/Yogasrii/leetcode/tree/main/0192-word-frequency/) | Medium |
 | [0193-valid-phone-numbers](https://github.com/Yogasrii/leetcode/tree/main/0193-valid-phone-numbers/) | Easy |
 | [0194-transpose-file](https://github.com/Yogasrii/leetcode/tree/main/0194-transpose-file/) | Medium |
+| [0195-tenth-line](https://github.com/Yogasrii/leetcode/tree/main/0195-tenth-line/) | Easy |
 <!---LeetCode Topics End-->
