@@ -91,6 +91,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Yogasrii/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Yogasrii/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/Yogasrii/leetcode/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/Yogasrii/leetcode/tree/main/0135-candy/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -273,6 +274,7 @@
 | [0055-jump-game](https://github.com/Yogasrii/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yogasrii/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/Yogasrii/leetcode/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/Yogasrii/leetcode/tree/main/0135-candy/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
