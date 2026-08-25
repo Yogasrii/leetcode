@@ -115,6 +115,7 @@
 | [0174-dungeon-game](https://github.com/Yogasrii/leetcode/tree/main/0174-dungeon-game/) | Hard |
 | [0179-largest-number](https://github.com/Yogasrii/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Yogasrii/leetcode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
+| [0189-rotate-array](https://github.com/Yogasrii/leetcode/tree/main/0189-rotate-array/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +191,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Yogasrii/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0165-compare-version-numbers](https://github.com/Yogasrii/leetcode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yogasrii/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/Yogasrii/leetcode/tree/main/0189-rotate-array/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,6 +293,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/Yogasrii/leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Yogasrii/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/Yogasrii/leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0189-rotate-array](https://github.com/Yogasrii/leetcode/tree/main/0189-rotate-array/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
