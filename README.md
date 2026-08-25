@@ -42,6 +42,7 @@
 | [0140-word-break-ii](https://github.com/Yogasrii/leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Yogasrii/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0165-compare-version-numbers](https://github.com/Yogasrii/leetcode/tree/main/0165-compare-version-numbers/) | Medium |
+| [0166-fraction-to-recurring-decimal](https://github.com/Yogasrii/leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +151,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Yogasrii/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/Yogasrii/leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yogasrii/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0166-fraction-to-recurring-decimal](https://github.com/Yogasrii/leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -272,6 +274,7 @@
 | [0089-gray-code](https://github.com/Yogasrii/leetcode/tree/main/0089-gray-code/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Yogasrii/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yogasrii/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0166-fraction-to-recurring-decimal](https://github.com/Yogasrii/leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
