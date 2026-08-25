@@ -146,6 +146,7 @@
 | [0141-linked-list-cycle](https://github.com/Yogasrii/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Yogasrii/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/Yogasrii/leetcode/tree/main/0146-lru-cache/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Yogasrii/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,6 +172,7 @@
 | [0143-reorder-list](https://github.com/Yogasrii/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/Yogasrii/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Yogasrii/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Yogasrii/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,6 +251,7 @@
 | [0146-lru-cache](https://github.com/Yogasrii/leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0147-insertion-sort-list](https://github.com/Yogasrii/leetcode/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/Yogasrii/leetcode/tree/main/0148-sort-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Yogasrii/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
