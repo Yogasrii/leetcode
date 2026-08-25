@@ -164,6 +164,7 @@
 | [0141-linked-list-cycle](https://github.com/Yogasrii/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Yogasrii/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Yogasrii/leetcode/tree/main/0143-reorder-list/) | Medium |
+| [0148-sort-list](https://github.com/Yogasrii/leetcode/tree/main/0148-sort-list/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -238,6 +239,7 @@
 | [0143-reorder-list](https://github.com/Yogasrii/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/Yogasrii/leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0147-insertion-sort-list](https://github.com/Yogasrii/leetcode/tree/main/0147-insertion-sort-list/) | Medium |
+| [0148-sort-list](https://github.com/Yogasrii/leetcode/tree/main/0148-sort-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,6 +290,7 @@
 | [0053-maximum-subarray](https://github.com/Yogasrii/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yogasrii/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Yogasrii/leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0148-sort-list](https://github.com/Yogasrii/leetcode/tree/main/0148-sort-list/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -318,6 +321,7 @@
 | [0049-group-anagrams](https://github.com/Yogasrii/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/Yogasrii/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0147-insertion-sort-list](https://github.com/Yogasrii/leetcode/tree/main/0147-insertion-sort-list/) | Medium |
+| [0148-sort-list](https://github.com/Yogasrii/leetcode/tree/main/0148-sort-list/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -332,6 +336,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Yogasrii/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0148-sort-list](https://github.com/Yogasrii/leetcode/tree/main/0148-sort-list/) | Medium |
 ## Tournament Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
