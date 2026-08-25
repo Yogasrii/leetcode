@@ -165,6 +165,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/Yogasrii/leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0169-majority-element](https://github.com/Yogasrii/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/Yogasrii/leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0202-happy-number](https://github.com/Yogasrii/leetcode/tree/main/0202-happy-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +195,7 @@
 | [0165-compare-version-numbers](https://github.com/Yogasrii/leetcode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yogasrii/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Yogasrii/leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/Yogasrii/leetcode/tree/main/0202-happy-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -297,6 +299,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Yogasrii/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/Yogasrii/leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/Yogasrii/leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/Yogasrii/leetcode/tree/main/0202-happy-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -584,6 +587,7 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Yogasrii/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Yogasrii/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/Yogasrii/leetcode/tree/main/0202-happy-number/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
