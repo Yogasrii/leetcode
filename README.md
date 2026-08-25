@@ -140,6 +140,7 @@
 | [0140-word-break-ii](https://github.com/Yogasrii/leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Yogasrii/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Yogasrii/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0146-lru-cache](https://github.com/Yogasrii/leetcode/tree/main/0146-lru-cache/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,6 +236,7 @@
 | [0141-linked-list-cycle](https://github.com/Yogasrii/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Yogasrii/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Yogasrii/leetcode/tree/main/0143-reorder-list/) | Medium |
+| [0146-lru-cache](https://github.com/Yogasrii/leetcode/tree/main/0146-lru-cache/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -503,4 +505,12 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Yogasrii/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Yogasrii/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/Yogasrii/leetcode/tree/main/0146-lru-cache/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/Yogasrii/leetcode/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
