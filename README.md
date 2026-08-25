@@ -43,6 +43,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Yogasrii/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0165-compare-version-numbers](https://github.com/Yogasrii/leetcode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/Yogasrii/leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/Yogasrii/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -277,6 +278,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Yogasrii/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yogasrii/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/Yogasrii/leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/Yogasrii/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
