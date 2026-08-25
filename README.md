@@ -92,6 +92,7 @@
 | [0130-surrounded-regions](https://github.com/Yogasrii/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/Yogasrii/leetcode/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/Yogasrii/leetcode/tree/main/0135-candy/) | Hard |
+| [0136-single-number](https://github.com/Yogasrii/leetcode/tree/main/0136-single-number/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -364,6 +365,7 @@
 | [0078-subsets](https://github.com/Yogasrii/leetcode/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/Yogasrii/leetcode/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/Yogasrii/leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0136-single-number](https://github.com/Yogasrii/leetcode/tree/main/0136-single-number/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
