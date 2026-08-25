@@ -98,6 +98,7 @@
 | [0137-single-number-ii](https://github.com/Yogasrii/leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0139-word-break](https://github.com/Yogasrii/leetcode/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/Yogasrii/leetcode/tree/main/0140-word-break-ii/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Yogasrii/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,6 +211,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yogasrii/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/Yogasrii/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yogasrii/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Yogasrii/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,6 +257,7 @@
 | [0062-unique-paths](https://github.com/Yogasrii/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0089-gray-code](https://github.com/Yogasrii/leetcode/tree/main/0089-gray-code/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Yogasrii/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Yogasrii/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
