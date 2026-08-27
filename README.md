@@ -127,6 +127,7 @@
 | [0212-word-search-ii](https://github.com/Yogasrii/leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0213-house-robber-ii](https://github.com/Yogasrii/leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Yogasrii/leetcode/tree/main/0216-combination-sum-iii/) | Medium |
+| [0217-contains-duplicate](https://github.com/Yogasrii/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +180,7 @@
 | [0202-happy-number](https://github.com/Yogasrii/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Yogasrii/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Yogasrii/leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0217-contains-duplicate](https://github.com/Yogasrii/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -403,6 +405,7 @@
 | [0164-maximum-gap](https://github.com/Yogasrii/leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/Yogasrii/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/Yogasrii/leetcode/tree/main/0179-largest-number/) | Medium |
+| [0217-contains-duplicate](https://github.com/Yogasrii/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
