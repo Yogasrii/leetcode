@@ -323,6 +323,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Yogasrii/leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/Yogasrii/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Yogasrii/leetcode/tree/main/0202-happy-number/) | Easy |
+| [0223-rectangle-area](https://github.com/Yogasrii/leetcode/tree/main/0223-rectangle-area/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -736,4 +737,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0218-the-skyline-problem](https://github.com/Yogasrii/leetcode/tree/main/0218-the-skyline-problem/) | Hard |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0223-rectangle-area](https://github.com/Yogasrii/leetcode/tree/main/0223-rectangle-area/) | Medium |
 <!---LeetCode Topics End-->
