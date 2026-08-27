@@ -489,6 +489,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Yogasrii/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Yogasrii/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Yogasrii/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/Yogasrii/leetcode/tree/main/0207-course-schedule/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -560,6 +561,7 @@
 | [0133-clone-graph](https://github.com/Yogasrii/leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Yogasrii/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Yogasrii/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/Yogasrii/leetcode/tree/main/0207-course-schedule/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -579,6 +581,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/Yogasrii/leetcode/tree/main/0133-clone-graph/) | Medium |
+| [0207-course-schedule](https://github.com/Yogasrii/leetcode/tree/main/0207-course-schedule/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -657,4 +660,12 @@
 | [0193-valid-phone-numbers](https://github.com/Yogasrii/leetcode/tree/main/0193-valid-phone-numbers/) | Easy |
 | [0194-transpose-file](https://github.com/Yogasrii/leetcode/tree/main/0194-transpose-file/) | Medium |
 | [0195-tenth-line](https://github.com/Yogasrii/leetcode/tree/main/0195-tenth-line/) | Easy |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Yogasrii/leetcode/tree/main/0207-course-schedule/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Yogasrii/leetcode/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
