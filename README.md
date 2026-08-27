@@ -120,6 +120,7 @@
 | [0189-rotate-array](https://github.com/Yogasrii/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Yogasrii/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Yogasrii/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Yogasrii/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -327,6 +328,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Yogasrii/leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/Yogasrii/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0187-repeated-dna-sequences](https://github.com/Yogasrii/leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Yogasrii/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -340,6 +342,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Yogasrii/leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/Yogasrii/leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yogasrii/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Yogasrii/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -672,4 +675,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Yogasrii/leetcode/tree/main/0207-course-schedule/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Yogasrii/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
