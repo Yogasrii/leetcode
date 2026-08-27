@@ -49,6 +49,7 @@
 | [0205-isomorphic-strings](https://github.com/Yogasrii/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Yogasrii/leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Yogasrii/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0212-word-search-ii](https://github.com/Yogasrii/leetcode/tree/main/0212-word-search-ii/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +123,7 @@
 | [0198-house-robber](https://github.com/Yogasrii/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Yogasrii/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Yogasrii/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0212-word-search-ii](https://github.com/Yogasrii/leetcode/tree/main/0212-word-search-ii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +143,7 @@
 | [0126-word-ladder-ii](https://github.com/Yogasrii/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Yogasrii/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0140-word-break-ii](https://github.com/Yogasrii/leetcode/tree/main/0140-word-break-ii/) | Hard |
+| [0212-word-search-ii](https://github.com/Yogasrii/leetcode/tree/main/0212-word-search-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -379,6 +382,7 @@
 | [0140-word-break-ii](https://github.com/Yogasrii/leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/Yogasrii/leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Yogasrii/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0212-word-search-ii](https://github.com/Yogasrii/leetcode/tree/main/0212-word-search-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -445,6 +449,7 @@
 | [0130-surrounded-regions](https://github.com/Yogasrii/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0174-dungeon-game](https://github.com/Yogasrii/leetcode/tree/main/0174-dungeon-game/) | Hard |
 | [0200-number-of-islands](https://github.com/Yogasrii/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0212-word-search-ii](https://github.com/Yogasrii/leetcode/tree/main/0212-word-search-ii/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
