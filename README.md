@@ -48,6 +48,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Yogasrii/leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Yogasrii/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Yogasrii/leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Yogasrii/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -377,6 +378,7 @@
 | [0139-word-break](https://github.com/Yogasrii/leetcode/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/Yogasrii/leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/Yogasrii/leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Yogasrii/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -497,6 +499,7 @@
 | [0200-number-of-islands](https://github.com/Yogasrii/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Yogasrii/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Yogasrii/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Yogasrii/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -613,6 +616,7 @@
 | [0155-min-stack](https://github.com/Yogasrii/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Yogasrii/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Yogasrii/leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Yogasrii/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
