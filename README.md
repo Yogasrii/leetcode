@@ -128,6 +128,7 @@
 | [0213-house-robber-ii](https://github.com/Yogasrii/leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Yogasrii/leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Yogasrii/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0218-the-skyline-problem](https://github.com/Yogasrii/leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -366,6 +367,7 @@
 | [0169-majority-element](https://github.com/Yogasrii/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/Yogasrii/leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Yogasrii/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0218-the-skyline-problem](https://github.com/Yogasrii/leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -406,6 +408,7 @@
 | [0169-majority-element](https://github.com/Yogasrii/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/Yogasrii/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/Yogasrii/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0218-the-skyline-problem](https://github.com/Yogasrii/leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -416,6 +419,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Yogasrii/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0218-the-skyline-problem](https://github.com/Yogasrii/leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -706,4 +710,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Yogasrii/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/Yogasrii/leetcode/tree/main/0218-the-skyline-problem/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/Yogasrii/leetcode/tree/main/0218-the-skyline-problem/) | Hard |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/Yogasrii/leetcode/tree/main/0218-the-skyline-problem/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/Yogasrii/leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 <!---LeetCode Topics End-->
