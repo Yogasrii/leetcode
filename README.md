@@ -51,6 +51,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/Yogasrii/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/Yogasrii/leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0214-shortest-palindrome](https://github.com/Yogasrii/leetcode/tree/main/0214-shortest-palindrome/) | Hard |
+| [0224-basic-calculator](https://github.com/Yogasrii/leetcode/tree/main/0224-basic-calculator/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -269,6 +270,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yogasrii/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Yogasrii/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Yogasrii/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0224-basic-calculator](https://github.com/Yogasrii/leetcode/tree/main/0224-basic-calculator/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -324,6 +326,7 @@
 | [0189-rotate-array](https://github.com/Yogasrii/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Yogasrii/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0223-rectangle-area](https://github.com/Yogasrii/leetcode/tree/main/0223-rectangle-area/) | Medium |
+| [0224-basic-calculator](https://github.com/Yogasrii/leetcode/tree/main/0224-basic-calculator/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -338,6 +341,7 @@
 | [0143-reorder-list](https://github.com/Yogasrii/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Yogasrii/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Yogasrii/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0224-basic-calculator](https://github.com/Yogasrii/leetcode/tree/main/0224-basic-calculator/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
