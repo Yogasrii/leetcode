@@ -130,6 +130,7 @@
 | [0217-contains-duplicate](https://github.com/Yogasrii/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0218-the-skyline-problem](https://github.com/Yogasrii/leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/Yogasrii/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0221-maximal-square](https://github.com/Yogasrii/leetcode/tree/main/0221-maximal-square/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -252,6 +253,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Yogasrii/leetcode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/Yogasrii/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Yogasrii/leetcode/tree/main/0213-house-robber-ii/) | Medium |
+| [0221-maximal-square](https://github.com/Yogasrii/leetcode/tree/main/0221-maximal-square/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -469,6 +471,7 @@
 | [0174-dungeon-game](https://github.com/Yogasrii/leetcode/tree/main/0174-dungeon-game/) | Hard |
 | [0200-number-of-islands](https://github.com/Yogasrii/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/Yogasrii/leetcode/tree/main/0212-word-search-ii/) | Hard |
+| [0221-maximal-square](https://github.com/Yogasrii/leetcode/tree/main/0221-maximal-square/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
